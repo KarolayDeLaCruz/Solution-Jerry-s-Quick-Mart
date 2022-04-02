@@ -8,10 +8,10 @@
 
 ## Instructions
 
--Download 
+- Download 
   * Main code: solutionKarolayD.py
   * requirements: requirements.txt
   * inventory: inventory.txt
--
-  
+- Install requirements
+  * pip install -r requirements.txt
 
