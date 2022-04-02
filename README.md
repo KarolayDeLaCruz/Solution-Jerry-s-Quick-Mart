@@ -6,6 +6,8 @@
 - It was made with a main class called Transactions with 7 instances that has the basic functionalities that Jerri's Quick Mart needs.
 - The cart and transaction data is managed as a dataframe with help of pandas library.
 - When select option 5 (checkout) inventory is updated only on the program not in the txt file.
+- When selecting option 5 (checkout) transaction is saved in a text file in the folder location.
+- Transaction number for receipt is assigned as a random number between 000000-999999.
  
 ## Instructions
 
