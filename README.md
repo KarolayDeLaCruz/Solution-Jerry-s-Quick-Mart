@@ -7,10 +7,11 @@
 - The cart and transaction data is managed as a dataframe with help of pandas library.
 
 ## Instructions
+
 -Download 
-  Main code: solutionKarolayD.py
-  requirements: requirements.txt
-  inventory: inventory.txt
+  * Main code: solutionKarolayD.py
+  * requirements: requirements.txt
+  * inventory: inventory.txt
 -
   
 
